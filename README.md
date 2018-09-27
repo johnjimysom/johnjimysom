@@ -1,2 +1,2 @@
 # johnjimysom
-Encrypted notes of "how to" in English and Japanese
+Notes for personal use.
